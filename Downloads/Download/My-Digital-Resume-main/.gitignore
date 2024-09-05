@@ -1,0 +1,5 @@
+echo "
+# Add any files or directories you want to ignore here
+.DS_Store
+node_modules/
+" >> .gitignore
